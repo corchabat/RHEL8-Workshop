@@ -100,18 +100,12 @@ For Windows desktops:
   . link:{includedir}/webconsole.adoc[*Web Console* - System Management]
   . link:{includedir}/systemd.adoc[*SystemD* - System Service Management]
   . link:{includedir}/firewalld.adoc[*FirewallD* - Firewall Service Management]
-  . link:{includedir}/nftables.adoc[*NFTables* - Firewall Subsystem]
-  . link:{includedir}/ebpf.adoc[*eBPF Tracing* - Extended Berkeley Packet Filter for Linux Kernel Tracing]
   . link:{includedir}/appstream-yum.adoc[*App Stream* - Application Delivery]
   . link:{includedir}/podman.adoc[*Podman* - Container Management]
   . link:{includedir}/buildah.adoc[*Buildah & Skopeo* - Container Development]
   . link:{includedir}/virtualization.adoc[*Virtualization* - Virtualization Management]
   . link:{includedir}/tlog.adoc[*TLog* - Session Logging]
   . link:{includedir}/lvm-vdo.adoc[*LVM and VDO* - Storage Management and Data Optimization]
-  . link:{includedir}/stratis.adoc[*Stratis* - Simplified Storage Management]
-  . link:{includedir}/boom.adoc[*BOOM* - Boot Management]
-  . link:{includedir}/wayland.adoc[*Wayland* - Desktop GUI ]
-
 
 ////  
 TO PRINT THIS DOC REMOVE THIS LINE AND COMMENTS AROUND INCLUDES
@@ -119,17 +113,12 @@ include::{includedir}/Getting-Started.adoc[leveloffset=+1]
 include::{includedir}/webconsole.adoc[leveloffset=+1]
 include::{includedir}/systemd.adoc[leveloffset=+1]
 include::{includedir}/firewalld.adoc[leveloffset=+1]
-include::{includedir}/nftables.adoc[leveloffset=+1]
-include::{includedir}/ebpf.adoc[leveloffset=+1]
 include::{includedir}/appstream-yum.adoc[leveloffset=+1]
 include::{includedir}/podman.adoc[leveloffset=+1]
 include::{includedir}/buildah.adoc[leveloffset=+1]
 include::{includedir}/virtualization.adoc[leveloffset=+1]
 include::{includedir}/tlog.adoc[leveloffset=+1]
 include::{includedir}/lvm-vdo.adoc[leveloffset=+1]
-include::{includedir}/stratis.adoc[leveloffset=+1]
-include::{includedir}/boom-lvm-snapshot.adoc[leveloffset=+1] 
-include::{includedir}/wayland.adoc[leveloffset=+1]
 ////
 
 [discrete]
